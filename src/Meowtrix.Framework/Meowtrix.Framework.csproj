@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.2</LangVersion>
+    <OutputPath>$(SolutionDir)artifacts\</OutputPath>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>huoyaoyuan</Authors>
+    <Company>Meowtrix</Company>
+  </PropertyGroup>
+
+</Project>
