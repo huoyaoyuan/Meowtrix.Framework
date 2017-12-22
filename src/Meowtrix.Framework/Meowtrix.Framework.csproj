@@ -7,6 +7,8 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>huoyaoyuan</Authors>
     <Company>Meowtrix</Company>
+    <RootNamespace>Meowtrix</RootNamespace>
+    <Version>0.1.0-exp</Version>
   </PropertyGroup>
 
 </Project>
